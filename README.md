@@ -42,6 +42,10 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+## Installation
+
+This app requires Node.js, Express, IndexedDB, and Webpack. 
+
 ## Deployed Application
 
 [Link to deployed application](https://whispering-caverns-85289-05388e280591.herokuapp.com/).
