@@ -46,6 +46,12 @@ THEN I should have proper build scripts for a webpack application
 
 This app requires Node.js, Express, IndexedDB, and Webpack. 
 
+## Screenshot
+
+Screenshot of installed application.
+
+![Screenshot](./Screenshot%202023-09-28%20094902.png)
+
 ## Deployed Application
 
 [Link to deployed application](https://whispering-caverns-85289-05388e280591.herokuapp.com/).
